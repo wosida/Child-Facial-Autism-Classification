@@ -1,6 +1,8 @@
 # Child-Facial-Autism-Classification 
-Child Facial Autism Classification \n
-Based on improved Googlenet \n
-Two modules:SPFFM PHMBA \n
+Child Facial Autism Classification  
+
+Based on improved Googlenet 
+
+Two modules:SPFFM PHMBA 
 
 
